@@ -8,8 +8,8 @@
 // @grant        none
 // @homepage     https://github.com/emmaly
 // @supportURL   https://github.com/emmaly/userscripts/issues
-// @updateURL    https://github.com/emmaly/userscripts/raw/main/RemoveTwitchFrontpageHeadliner.user.js
-// @downloadURL  https://github.com/emmaly/userscripts/raw/main/RemoveTwitchFrontpageHeadliner.user.js
+// @updateURL    https://github.com/emmaly/userscripts/raw/refs/heads/main/RemoveTwitchFrontpageHeadliner.user.js
+// @downloadURL  https://github.com/emmaly/userscripts/raw/refs/heads/main/RemoveTwitchFrontpageHeadliner.user.js
 // @license      MIT
 // ==/UserScript==
 
